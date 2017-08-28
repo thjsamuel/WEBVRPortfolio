@@ -1,0 +1,14 @@
+{
+  "name": "webvrportfolio",
+  "version": "1.0.0",
+  "description": "Virtual Reality Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tan Hou Gim Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "aframe-layout": "^1.0.2"
+  }
+}
